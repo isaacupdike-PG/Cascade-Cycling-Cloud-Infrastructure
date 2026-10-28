@@ -26,6 +26,8 @@ Azure RBAC roles were assigned to the groups to control access to the virtual ma
 | Management-VM01 | Management | Virtual Machine User Login |
 | Management-VM01 | IT admins | Virtual Machine Administrator Login |
 
+![Azure RBAC Role Assignments – Employee-VM01](Azure%20RBAC%20Role%20Assignments%20%E2%80%93%20Employee-VM01.png)
+
 ## Authentication
 
 Microsoft Entra ID authentication was enabled on the employee virtual machines. Administrative access was tested using Remote Desktop Protocol (RDP).
