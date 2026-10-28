@@ -28,3 +28,9 @@ The Azure environment uses two virtual networks in separate regions. The main Ca
 - **Server:** Wazuh-Linux-VM01
 
 The two virtual networks are connected through VNet peering, allowing communication between the employee virtual machines and the Wazuh monitoring server. Network traffic to Wazuh is routed through Azure Firewall.
+
+## Proposed Network Architecture
+
+The diagram below shows the original network design for Cascade Cycling. Some components and configurations were adjusted during deployment.
+
+![Proposed Network Architecture](CascadeCyclingArchitecture.png)
