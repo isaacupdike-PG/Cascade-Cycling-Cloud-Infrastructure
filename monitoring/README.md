@@ -29,6 +29,8 @@ Wazuh was used to collect and review security information from the connected vir
 
 The Wazuh dashboard was used to review detected events, vulnerabilities, and system configuration findings.
 
+![Wazuh Vulnerability Detection](Wazuh%20Vulnerability%20Detection.png)
+
 ## Azure Firewall Logging
 
 Azure Firewall diagnostic logs were collected through Azure Log Analytics.
