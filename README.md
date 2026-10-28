@@ -24,14 +24,11 @@ The environment includes virtual machines, network segmentation, user access man
 
 The repository contains documentation of the network design, Azure infrastructure, security configurations, and testing completed during the project.
 
-Architecture: Network design and diagrams
+## Project Documentation
 
-Infrastructure: Azure resources and virtual machines
-
-Identity and Access: User groups and access permissions
-
-Network Security: Firewall rules, NSGs, and routing
-
-Monitoring: Wazuh configuration and security monitoring
-
-Testing: Network connectivity and security testing results
+- [Architecture](architecture/README.md)
+- [Infrastructure](infrastructure/README.md)
+- [Identity and Access](identity-access/README.md)
+- [Network Security](network-security/README.md)
+- [Monitoring](monitoring/README.md)
+- [Testing](testing/README.md)
