@@ -35,7 +35,3 @@ Network Security: Firewall rules, NSGs, and routing
 Monitoring: Wazuh configuration and security monitoring
 
 Testing: Network connectivity and security testing results
-
-## Project Scope
-
-This environment was developed as part of a cybersecurity capstone project. It demonstrates the deployment and testing of cloud infrastructure for a small business rather than a fully production-ready environment.
