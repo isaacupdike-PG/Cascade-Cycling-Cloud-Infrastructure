@@ -29,6 +29,6 @@ The repository contains documentation of the network design, Azure infrastructur
 - [Architecture](architecture/README.md)
 - [Infrastructure](infrastructure/README.md)
 - [Identity and Access](identity%20access/README.md)
-- [Network Security](network-security/README.md)
+- [Network Security](network%20security/README.md)
 - [Monitoring](monitoring/README.md)
 - [Testing](testing/README.md)
