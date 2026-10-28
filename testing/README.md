@@ -29,6 +29,12 @@ Azure Log Analytics was used to review firewall logs and verify traffic between 
 
 The logs confirmed that both employee virtual machines were allowed to communicate with Wazuh on TCP port 1514 through Azure Firewall.
 
+### Firewall Traffic Verification
+
+The Azure Firewall logs show allowed traffic from Employee-VM01 (`10.10.2.4`) to the Wazuh monitoring server (`172.16.0.4`) on TCP ports 1514 and 1515.
+
+![Azure Firewall Traffic Logging Verification](Azure%20Firewall%20Traffic%20Logging%20Verification.png)
+
 ## Wazuh Monitoring
 
 The Wazuh dashboard was used to confirm that all three Windows agents were connected and active. Security events, vulnerability findings, and configuration assessments were also reviewed through the dashboard.
