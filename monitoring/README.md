@@ -16,6 +16,8 @@ Wazuh agents were installed on the three Windows virtual machines:
 
 All three agents were connected to the Wazuh server and confirmed active.
 
+![Wazuh Agent Overview](Wazuh%20Agent%20Overview.png)
+
 ## Security Monitoring
 
 Wazuh was used to collect and review security information from the connected virtual machines. The monitoring features included:
