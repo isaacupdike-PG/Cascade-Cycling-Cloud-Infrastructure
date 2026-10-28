@@ -21,6 +21,8 @@ The Azure environment uses two virtual networks in separate regions. The main Ca
 | AzureBastionSubnet | 10.10.3.0/26 | Reserved for Azure Bastion |
 | AzureFirewallSubnet | 10.10.4.0/26 | Azure Firewall |
 
+![Azure Virtual Network Subnet Segmentation](Azure%20Virtual%20Network%20Subnet%20Segmentation.png)
+
 ### Wazuh VNet
 
 - **Region:** West US 3
