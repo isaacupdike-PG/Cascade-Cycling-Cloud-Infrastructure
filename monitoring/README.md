@@ -30,6 +30,7 @@ Wazuh was used to collect and review security information from the connected vir
 The Wazuh dashboard was used to review detected events, vulnerabilities, and system configuration findings.
 
 ![Wazuh Vulnerability Detection](Wazuh%20Vulnerability%20Detection.png)
+![Wazuh Security Configuration Assessment](Wazuh%20Security%20Configuration%20Assessment%20.png)
 
 ## Azure Firewall Logging
 
