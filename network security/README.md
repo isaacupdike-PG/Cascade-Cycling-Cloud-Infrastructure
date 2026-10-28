@@ -16,6 +16,8 @@ The following restrictions were implemented on the employee virtual machines:
 | Deny-Employee-to-Employee-RDP | Blocks RDP connections between employee virtual machines |
 | Allow-RDP-Temp | Allows temporary administrative RDP access from a restricted source IP |
 
+![Employee-VM01 NSG Configuration](employee%20VM01%20NSG.png)
+
 The employee-to-management restriction was configured for all protocols, while the employee-to-employee restriction specifically targeted RDP traffic on TCP port 3389.
 
 ## Azure Firewall
