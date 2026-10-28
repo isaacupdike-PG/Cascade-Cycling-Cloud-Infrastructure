@@ -17,6 +17,12 @@ Azure Network Watcher IP Flow Verify was used to test traffic between the virtua
 | Employee-VM01 to Wazuh (TCP 1514) | Allowed |
 | Employee-VM02 to Wazuh (TCP 1514) | Allowed |
 
+### Network Watcher Verification
+
+Azure Network Watcher IP Flow Verify was used to confirm that RDP traffic from Employee-VM02 to Management-VM01 was denied by the Deny-Employee-to-Management NSG rule.
+
+![Network Watcher Employee VM Denied](Network%20Watcher%20Employee%20VM%20Denied.png)
+
 ## Azure Firewall Testing
 
 Azure Log Analytics was used to review firewall logs and verify traffic between the employee virtual machines and the Wazuh server.
