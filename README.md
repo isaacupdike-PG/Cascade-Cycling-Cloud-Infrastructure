@@ -1,26 +1,26 @@
-Cascade Cycling Cloud Infrastructure
+# Cascade Cycling Cloud Infrastructure
 
-Project Overview
+## Project Overview
 
 This project involved designing and deploying a Microsoft Azure cloud environment for Cascade Cycling, a small bicycle retail business with approximately 5–10 employees. The goal was to create a secure and manageable network that could support daily business operations while keeping costs reasonable.
 
 The environment includes virtual machines, network segmentation, user access management, firewall rules, and centralized security monitoring using Wazuh.
 
-Technologies Used
+## Technologies Used
 
-Microsoft Azure
+- Microsoft Azure
 
-Azure Virtual Networks and Virtual Machines
+- Azure Virtual Networks and Virtual Machines
 
-Azure Firewall and Network Security Groups (NSGs)
+- Azure Firewall and Network Security Groups (NSGs)
 
-Microsoft Entra ID and Role-Based Access Control (RBAC)
+- Microsoft Entra ID and Role-Based Access Control (RBAC)
 
-Wazuh SIEM
+- Wazuh SIEM
 
-Azure Network Watcher and Log Analytics
+- Azure Network Watcher and Log Analytics
 
-Project Documentation
+## Project Documentation
 
 The repository contains documentation of the network design, Azure infrastructure, security configurations, and testing completed during the project.
 
@@ -36,6 +36,6 @@ Monitoring: Wazuh configuration and security monitoring
 
 Testing: Network connectivity and security testing results
 
-Project Scope
+## Project Scope
 
 This environment was developed as part of a cybersecurity capstone project. It demonstrates the deployment and testing of cloud infrastructure for a small business rather than a fully production-ready environment.
